@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-syntax-dynamic-lazy-import",
+  "version": "1.0.0",
+  "description": "Allow parsing of lazyImport()",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wotermelon/babel-syntax-dynamic-lazy-import.git"
+  },
+  "keywords": [
+    "babel-plugin"
+  ],
+  "author": "wotermelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wotermelon/babel-syntax-dynamic-lazy-import/issues"
+  },
+  "homepage": "https://github.com/wotermelon/babel-syntax-dynamic-lazy-import#readme"
+}

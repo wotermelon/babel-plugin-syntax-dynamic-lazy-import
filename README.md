@@ -16,7 +16,7 @@ Via `.babelrc` or babel-loader.
 
 ```json
 {
-  "plugins": ["syntax-lazy-import"]
+  "plugins": ["syntax-dynamic-lazy-import"]
 }
 ```
 

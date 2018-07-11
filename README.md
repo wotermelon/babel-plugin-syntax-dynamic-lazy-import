@@ -22,14 +22,7 @@ Via `.babelrc` or babel-loader.
 
 ## Example
 
-Converts
-
 ```js
-const component = lazyImport('./xx.js')
+const component = lazyImport('./xx.js', 'xxChunkFileName')
 ```
 
-to
-
-```js
-const component = () => import('./xx.js')
-```
